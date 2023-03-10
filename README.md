@@ -2,6 +2,10 @@
 
 Non official api for lithuanian apps & services
 
+## m-ticket / traffi
+Endpoint: https://mtis2.m-transportas.lt
+
+
 ## IKI
 Endpoint: https://iki.lt//wp-json
 
